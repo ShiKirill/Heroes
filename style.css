@@ -29,6 +29,7 @@
 }
 
 .hero-photo {
+  margin: 0 auto;
   display: block;
   height: 300px;
   width: 200px;
