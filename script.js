@@ -18,6 +18,8 @@ const createItem = (photo, name, realName, movies, status) => {
       films += `<li class="films-list-item">${item}</li>
       `;
     });
+  } else {
+    films = 'Неизвестно';
   }
   const newElem = `
     <div class="row-item">
