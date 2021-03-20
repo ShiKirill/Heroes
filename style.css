@@ -109,7 +109,6 @@
 
 .row-item-active {
   border-bottom-left-radius: 0;
-  box-shadow: inset -18px 20px 20px 0px #fffe70;
   transition: 1s;
 }
 
